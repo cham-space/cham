@@ -1,0 +1,26 @@
+{
+  "name": "cham-space/cham",
+  "type": "library",
+  "description": "cham's testing",
+  "keywords": ["templating"],
+  "homepage": "https://github.com/cham-space",
+  "license": "cham",
+  "authors": [
+    {
+      "name": "cham",
+      "email": "vccham@163.com",
+      "homepage": "https://github.com/cham-space",
+      "role": "Lead Developer"
+    }
+  ],
+  "support": {
+    "forum": "https://github.com/cham-space"
+  },
+  "require": {
+    "php": ">=5.2.7"
+  },
+  "require-dev": {
+    "symfony/phpunit-bridge": "~2.7",
+    "symfony/debug": "~2.7"
+  }
+}
