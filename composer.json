@@ -4,7 +4,8 @@
   "description": "cham's testing",
   "keywords": ["templating"],
   "homepage": "https://github.com/cham-space",
-  "license": "cham",
+  "license": "MIT",
+  "version":"1.0.0",
   "authors": [
     {
       "name": "cham",
@@ -18,9 +19,5 @@
   },
   "require": {
     "php": ">=5.2.7"
-  },
-  "require-dev": {
-    "symfony/phpunit-bridge": "~2.7",
-    "symfony/debug": "~2.7"
   }
 }
